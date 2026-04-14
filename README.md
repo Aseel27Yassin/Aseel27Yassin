@@ -10,7 +10,9 @@
 
 ## 🧠 About Me
 - 🎯 I'm focused on backend development & clean architecture  
-- 📚 Always learning and improving 
+- 📚 Always learning new technlogies and improving best practices 
+- 🚀 With the fast growing of AI , I always make sure to learn how to apply it in my projects 
+
 
 
 ## 🛠️ Tech Stack
