@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 Software Engineer @ AYT &nbsp;|&nbsp; 📍 Amman, Jordan &nbsp;|&nbsp; 🌐 Bilingual EN/AR systems
-</p>
+  🚀 Software Engineer @ AYT &nbsp;|&nbsp; 📍 Amman, Jordan &nbsp;|&nbsp; 
 
 <p align="center">
   <a href="mailto:aseel27yassin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -85,7 +84,6 @@ Production-grade internal platform built at **AYT** that **replaced the company'
 | **[ThirtySix-36](https://github.com/Aseel27Yassin/ThirtySix-36)** | Company website for "ThirtySix" showcasing its services | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 | **[bonfakhraldincart](https://github.com/Aseel27Yassin/bonfakhraldincart)** | E-commerce cart application | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **[Portfolio](https://github.com/Aseel27Yassin/portfolio)** | Personal portfolio site — [live demo](https://aseelyassin-portfolio.netlify.app/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[Project Name]** | *Add your C# / ASP.NET Core project here* | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) |
 
 ---
 
