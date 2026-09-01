@@ -16,12 +16,16 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Stats card (no external service — runs entirely inside this Action)
+        # The "stats" card needs read:user scope to query account-level data (total
+        # contributions, etc.) via GraphQL. The auto-provided GITHUB_TOKEN can't do this
+        # (it's repo-scoped only), so this step uses a Personal Access Token stored as
+        # the STATS_TOKEN secret instead. See README/chat notes for how to create it.
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=Aseel27Yassin&show_icons=true&hide_border=true&theme=dark
           path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate Top Languages card
         uses: readme-tools/github-readme-stats-action@v1
