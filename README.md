@@ -13,8 +13,8 @@
 
 ## 🧠 About Me
 - 💼 Software Engineer at **Ahmad Yousef Tarawneh Partners (AYT)** — building and maintaining big systems used in real day-to-day operations
-- 🏗️ I design real-world backend systems from scratch , as well as frontend systems
-- 🔐 Security-conscious: 2FA, activity logging, and access control aren't afterthoughts in my projects — they're built in from day one
+- 🏗️ I design real-world Full stack systems using either C#/ASP.NET core/MVC/php/Laravel
+- 🔐 Security-conscious: 2FA, activity logging, and access control aren't afterthoughts in my projects
 - 📚 Constantly expanding my stack and sharpening engineering practices
 - 🤖 Actively learning how to apply AI meaningfully inside real applications
 
@@ -57,16 +57,17 @@ Built as part of my work at **AYT** — a production-grade internal platform tha
 | **[bonfakhraldincart](https://github.com/Aseel27Yassin/bonfakhraldincart)** | E-commerce cart application | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **[Portfolio](https://github.com/Aseel27Yassin/portfolio)** | Personal portfolio site — [live demo](https://aseelyassin-portfolio.netlify.app/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-> 💡 Also pin these directly from your GitHub profile (Customize your pins) so they show as cards on your Overview tab too — pin the Document Control System first.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aseel27Yassin&show_icons=true&hide_border=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseel27Yassin&layout=compact&hide_border=true&theme=dark" width="48%" />
+  <img src="./assets/stats.svg" width="48%" />
+  <img src="./assets/top-langs.svg" width="48%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aseel27Yassin&theme=dark&hide_border=true" />
+  <img src="./assets/streak.svg" />
 </p>
+
+> ℹ️ These images are static SVGs refreshed automatically every 6 hours by a GitHub Action ([`.github/workflows/update-stats.yml`](.github/workflows/update-stats.yml)) — this avoids the well-known reliability issues with the shared public `github-readme-stats.vercel.app` instance (rate limits / intermittent downtime affecting thousands of profiles).
 
 ## 👀 Profile Views
 <p align="center">
