@@ -12,11 +12,11 @@
 ---
 
 ## 🧠 About Me
-- 💼 Software Engineer at **Ahmad Yousef Tarawneh Partners (AYT)** — building and maintaining big systems used in real day-to-day operations
-- 🏗️ I design real-world Full stack systems using either C#/ASP.NET core/MVC/php/Laravel
-- 🔐 Security-conscious: 2FA, activity logging, and access control aren't afterthoughts in my projects
+- 💼 Software Engineer at **Ahmad Yousef Tarawneh Partners (AYT)** — building and maintaining internal systems used in real day-to-day operations
+- 🏗️ I design real-world backend systems from scratch — custom MVC architecture, role-based access control, audit trails, and multi-language support
+- 🔐 Security-conscious: 2FA, activity logging, and access control aren't afterthoughts in my projects — they're built in from day one
 - 📚 Constantly expanding my stack and sharpening engineering practices
-- 🤖 Actively learning how to apply AI meaningfully inside real applications
+- 🤖 Actively learning how to apply AI meaningfully inside real applications, not just as a buzzword
 
 ## 🛠️ Tech Stack
 <p>
@@ -57,6 +57,7 @@ Built as part of my work at **AYT** — a production-grade internal platform tha
 | **[bonfakhraldincart](https://github.com/Aseel27Yassin/bonfakhraldincart)** | E-commerce cart application | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **[Portfolio](https://github.com/Aseel27Yassin/portfolio)** | Personal portfolio site — [live demo](https://aseelyassin-portfolio.netlify.app/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
+> 💡 Also pin these directly from your GitHub profile (Customize your pins) so they show as cards on your Overview tab too — pin the Document Control System first.
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -83,3 +84,4 @@ Built as part of my work at **AYT** — a production-grade internal platform tha
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
