@@ -12,11 +12,11 @@
 ---
 
 ## 🧠 About Me
-- 💼 Software Engineer at **Ahmad Yousef Tarawneh Partners (AYT)** — building and maintaining internal systems used in real day-to-day operations
-- 🏗️ I design real-world backend systems from scratch — custom MVC architecture, role-based access control, audit trails, and multi-language support
+- 💼 Software Engineer at **Ahmad Yousef Tarawneh Partners (AYT)** — building and maintaining big systems used in real day-to-day operations
+- 🏗️ I design real-world backend systems from scratch , as well as frontend systems
 - 🔐 Security-conscious: 2FA, activity logging, and access control aren't afterthoughts in my projects — they're built in from day one
 - 📚 Constantly expanding my stack and sharpening engineering practices
-- 🤖 Actively learning how to apply AI meaningfully inside real applications, not just as a buzzword
+- 🤖 Actively learning how to apply AI meaningfully inside real applications
 
 ## 🛠️ Tech Stack
 <p>
