@@ -68,7 +68,7 @@ Built as part of my work at **AYT** — a production-grade internal platform tha
   <img src="./assets/streak.svg" />
 </p>
 
-> ℹ️ These images are static SVGs refreshed automatically every 6 hours by a GitHub Action ([`.github/workflows/update-stats.yml`](.github/workflows/update-stats.yml)) — this avoids the well-known reliability issues with the shared public `github-readme-stats.vercel.app` instance (rate limits / intermittent downtime affecting thousands of profiles).
+
 
 ## 👀 Profile Views
 <p align="center">
