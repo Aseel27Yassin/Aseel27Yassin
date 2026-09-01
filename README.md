@@ -39,9 +39,8 @@ Always trying to learn and build in my free time and discover working with real 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseel27Yassin" />
+  <img src="https://streak-stats.demolab.com/?user=Aseel27Yassin" />
 </p>
-
 
 ## 👀 Profile Views
 
