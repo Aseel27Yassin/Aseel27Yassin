@@ -5,31 +5,43 @@ on:
     - cron: '0 */6 * * *'   # every 6 hours
   workflow_dispatch:         # allows manual run from the Actions tab
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Generate Stats card (no external service — runs entirely inside this Action)
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          persist-credentials: true
+          card: stats
+          options: username=Aseel27Yassin&show_icons=true&hide_border=true&theme=dark
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create assets folder
-        run: mkdir -p assets
+      - name: Generate Top Languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=Aseel27Yassin&layout=compact&hide_border=true&theme=dark
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch GitHub Stats card
-        run: |
-          curl -sL "https://github-readme-stats.vercel.app/api?username=Aseel27Yassin&show_icons=true&hide_border=true&theme=dark" -o assets/stats.svg
-
-      - name: Fetch Top Languages card
-        run: |
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=Aseel27Yassin&layout=compact&hide_border=true&theme=dark" -o assets/top-langs.svg
-
+      # streak-stats.demolab.com is a *different* service from github-readme-stats
+      # and is currently reliable, so it's fetched normally rather than replaced.
       - name: Fetch Streak Stats card
         run: |
+          mkdir -p assets
           curl -sL "https://streak-stats.demolab.com/?user=Aseel27Yassin&theme=dark&hide_border=true" -o assets/streak.svg
+          # Safety check: make sure we actually got an SVG, not an error page
+          if ! head -c 200 assets/streak.svg | grep -q "<svg"; then
+            echo "Streak card fetch failed or returned a non-SVG response — keeping previous version."
+            git checkout -- assets/streak.svg || true
+          fi
 
       - name: Commit and push if changed
         run: |
