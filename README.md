@@ -34,12 +34,13 @@
 Always trying to learn and build in my free time, and enjoy working on real-world projects.
 
 ## 📌 Featured Projects
-<!-- Replace with your actual repo names/links/descriptions -->
-- **[Project Name](https://github.com/Aseel27Yassin/repo)** — short description of what it does and why it's interesting (stack used, key feature).
-- **[Project Name](https://github.com/Aseel27Yassin/repo)** — short description of what it does and why it's interesting (stack used, key feature).
-- **[Project Name](https://github.com/Aseel27Yassin/repo)** — short description of what it does and why it's interesting (stack used, key feature).
 
-> Tip: you can also pin repos directly from your GitHub profile page (Customize your pins), which shows them as cards automatically — no README maintenance needed.
+- **[AYT Document Control System](https://github.com/Aseel27Yassin/Document-Control-System)** — Internal platform built for a real company (AYT) to replace an Excel-based document register. Manages projects, correspondence, drawing revisions, and transmittals with full approval history and audit trails, plus a separate portal for external engineers/consultants. Custom PHP MVC + MySQL, with 2FA for admins, role-based permissions, scheduled backups, and a bilingual (English/Arabic) interface.
+- **[ThirtySix-36](https://github.com/Aseel27Yassin/ThirtySix-36)** — Company website for "ThirtySix" showcasing its services. Built with Laravel (Blade templates).
+- **[Portfolio](https://github.com/Aseel27Yassin/portfolio)** — Personal portfolio site ([live](https://aseelyassin-portfolio.netlify.app/)), built with plain HTML/CSS/JavaScript.
+- **[bonfakhraldincart](https://github.com/Aseel27Yassin/bonfakhraldincart)** — E-commerce cart application built with Laravel, Tailwind CSS, and Vite.
+
+> Tip: you can also pin repos directly from your GitHub profile page (Customize your pins), which shows them as cards automatically — no README maintenance needed. I'd suggest pinning the Document Control System first since it's your strongest, most complete project.
 
 ## 📊 GitHub Stats
 <p align="center">
