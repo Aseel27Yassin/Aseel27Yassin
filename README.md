@@ -57,7 +57,6 @@ Built as part of my work at **AYT** — a production-grade internal platform tha
 | **[bonfakhraldincart](https://github.com/Aseel27Yassin/bonfakhraldincart)** | E-commerce cart application | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **[Portfolio](https://github.com/Aseel27Yassin/portfolio)** | Personal portfolio site — [live demo](https://aseelyassin-portfolio.netlify.app/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-> 💡 Also pin these directly from your GitHub profile (Customize your pins) so they show as cards on your Overview tab too — pin the Document Control System first.
 
 ## 📊 GitHub Stats
 <p align="center">
