@@ -40,7 +40,7 @@ Always trying to learn and build in my free time, and enjoy working on real-worl
 - **[Portfolio](https://github.com/Aseel27Yassin/portfolio)** — Personal portfolio site ([live](https://aseelyassin-portfolio.netlify.app/)), built with plain HTML/CSS/JavaScript.
 - **[bonfakhraldincart](https://github.com/Aseel27Yassin/bonfakhraldincart)** — E-commerce cart application built with Laravel, Tailwind CSS, and Vite.
 
-> Tip: you can also pin repos directly from your GitHub profile page (Customize your pins), which shows them as cards automatically — no README maintenance needed. I'd suggest pinning the Document Control System first since it's your strongest, most complete project.
+
 
 ## 📊 GitHub Stats
 <p align="center">
