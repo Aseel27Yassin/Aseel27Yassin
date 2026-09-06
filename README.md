@@ -95,9 +95,6 @@ Production-grade internal platform built at **AYT** that **replaced the company'
   <img src="https://quickchart.io/chart?bkg=%230f172a&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%23%20%2F%20ASP.NET%20Core%22%2C%22PHP%20%2F%20Laravel%22%2C%22JavaScript%20%2F%20TypeScript%22%2C%22SQL%20(MySQL%20%2F%20SQL%20Server)%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Focus%22%2C%22data%22%3A%5B45%2C35%2C15%2C5%5D%2C%22backgroundColor%22%3A%5B%22%2338BDF8%22%2C%22%23FF2D20%22%2C%22%23F7DF1E%22%2C%22%234479A1%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Tech%20Stack%20Focus%22%2C%22fontColor%22%3A%22%23e2e8f0%22%2C%22fontSize%22%3A16%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e2e8f0%22%2C%22max%22%3A100%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23334155%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e2e8f0%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23334155%22%7D%7D%5D%7D%7D%7D&backgroundColor=transparent&width=500&height=280&devicePixelRatio=2" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aseel27Yassin&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=e2e8f0&layout=compact" width="60%" />
-</p>
-<p align="center">
   <img src="./assets/streak.svg" />
 </p>
 
