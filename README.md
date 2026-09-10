@@ -101,9 +101,7 @@ Production-grade internal platform built at **AYT** that **replaced the company'
 ---
 
 ## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aseel27Yassin&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://profile-counter.glitch.me/Aseel27Yassin/count.svg" />
 
 ## 📫 Contact Me
 <p>
