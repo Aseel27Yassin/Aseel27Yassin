@@ -101,7 +101,7 @@ Production-grade internal platform built at **AYT** that **replaced the company'
 ---
 
 ## 👀 Profile Views
-<img src="https://profile-counter.glitch.me/Aseel27Yassin/count.svg" />
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Aseel27Yassin.Aseel27Yassin)
 
 ## 📫 Contact Me
 <p>
