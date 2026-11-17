@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-- 💼 Software Engineer at **Ahmad Yousef Tarawneh Partners (AYT)** — designing and maintaining production systems used in real day-to-day operations
+- 💼 Software Engineer at **Ahmad Yousef Al Tarawneh and Partner Co. Ltd. (AYT)** — designing and maintaining production systems used in real day-to-day operations
 - 🏗️ I build full-stack systems on **two stacks**: `C# / ASP.NET Core MVC / Entity Framework Core` and `PHP / Laravel / custom MVC`
 - 🔐 Security-first mindset: 2FA (TOTP), role-based access control, and per-action activity logging are standard in everything I ship — not afterthoughts
 - 🗄️ Comfortable building a project end-to-end: schema design, backend, frontend, deployment, and server maintenance
